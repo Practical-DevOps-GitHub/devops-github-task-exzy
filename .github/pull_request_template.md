@@ -1,9 +1,6 @@
 ## Describe your changes
-<!-- Describe the changes introduced by this pull request -->
 
-## Issue
-- Issue: #[issue number]
-- [Link to issue](link to issue)
+## Issue ticket number and link
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code.
